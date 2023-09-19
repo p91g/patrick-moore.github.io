@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Web-scraping bikeshare docking station data"
 collection: teaching
 type: "Undergraduate course"
 permalink: /tutorials/2014-spring-teaching-1
