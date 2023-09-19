@@ -1,6 +1,6 @@
 ---
 title: "Web-scraping bikeshare docking station data"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='https://p91g.github.io/patrick-moore.github.io/images/500x300.png'>"
 collection: projects
 ---
 
