@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<br/><img src='https://p91g.github.io/patrick-moore.github.io/images/_6f9fcf02-b034-4a08-b26a-054dcfc473d2.jpg'>{: .align-right width="300px"}
+<br/><img src='https://p91g.github.io/patrick-moore.github.io/images/bikes_futuristic2.jpg'>{: .align-right width="300px"}
 
+https://p91g.github.io/patrick-moore.github.io/images/bikes_futuristic2.jpg
 🧑‍💻 I am a PhD graduate of Transportation Data Science
 
 🚲 I have a special interest in cycling research
