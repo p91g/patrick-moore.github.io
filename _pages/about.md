@@ -9,13 +9,11 @@ redirect_from:
 ---
 
 <br/><img src='https://p91g.github.io/patrick-moore.github.io/images/bikes_futuristic2.jpg'>{: .align-right width="300px"}
-
 🧑‍💻 I am a PhD graduate of Transportation Data Science
 
 🚲 I have a special interest in cycling research
 
 📚 My thesis focussed on explaining and predicting bikeshhare demand in the UK
-
 
 A data-driven personal website
 ======
