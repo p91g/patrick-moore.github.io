@@ -9,6 +9,9 @@ redirect_from:
 ---
 
 <img src="/images/_6f9fcf02-b034-4a08-b26a-054dcfc473d2.jpg" align="right" width="300px">
+
+![bikeshare](/images/_6f9fcf02-b034-4a08-b26a-054dcfc473d2.jpg){: .align-right width="300px"}
+
 🧑‍💻 I am a PhD graduate of Transportation Data Science
 
 🚲 I have a special interest in cycling research
