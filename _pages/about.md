@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![bikeshare]([/images/image_to_text_vis.png]("https://p91g.github.io/patrick-moore.github.io/images/_6f9fcf02-b034-4a08-b26a-054dcfc473d2.jpg")){: .align-right width="300px"}
+<br/><img src='https://p91g.github.io/patrick-moore.github.io/images/_6f9fcf02-b034-4a08-b26a-054dcfc473d2.jpg'>{: .align-right width="300px"}
 
 🧑‍💻 I am a PhD graduate of Transportation Data Science
 
