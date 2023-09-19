@@ -1,22 +1,15 @@
 # main links links
 main:
- - title: "CV"
-   url: /pages/cv.md    
-    
-- title: "Publications"
-   url: /publications/
+  - title: "CV"
+    url: /cv/
 
-- title: "Tutorials"
-   url: /teaching/    
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Tutorials"
+    url: /teaching/    
     
-- title: "Projects"
-   url: /portfolio/
+  - title: "Projects"
+    url: /portfolio/
         
-  #- title: "Blog Posts"
-  # url: /year-archive/
-    
-  #- title: "CV"
-  # url: /cv/
-    
-  #- title: "Guide"
-  #  url: /markdown/
+
