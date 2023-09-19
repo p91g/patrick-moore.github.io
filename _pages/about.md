@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/bikes_futuristic1.1.png" align="right" width="300px">
+<img src="bikes_futuristic1.1.png" align="right" width="300px">
 🧑‍💻 I am a PhD graduate of Transportation Data Science
 
 🚲 I have a special interest in cycling research
