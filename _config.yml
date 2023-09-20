@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   tutorials:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
