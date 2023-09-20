@@ -8,13 +8,13 @@ tags:
   - category2
 ---
 
-In this post I give brief summary of what the backpropogation algorithm is. Backpropogation is fundamental to the optimisation process for neural networks. It is somewhat intimidating until you delve into the details.
+In this post I give brief summary of what the backpropogation algorithm is. Backpropogation is fundamental to the optimisation process for neural networks! It is somewhat intimidating until you delve into the details.
 
 Definition
----
+===
 It is a method for computing the gradients of parameters in a neural network by recursively applying the chain rule. These gradients are used to update the weights and biases of the network during training, in order to minimise the loss function. In other words, propagating the error (i.e. gradients) backward through the network to be updated.
 
-The steps of the algorithm are:
+_The steps of the algorithm are:_
 
 Forward pass
 ---
