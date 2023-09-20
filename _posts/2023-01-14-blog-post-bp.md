@@ -36,7 +36,7 @@ Because the inner functions are also vectors, the output is a matrix, which can 
 Multiple vector valued functions are stacked together into one matrix and can be efficiently chained together with other jacobians, representing the layers of a neural network. For example, the Jacobian can be used to calculate the derivative of the output layer with respect to the input of a previous layer, by multiplying the Jacobian for the current layer with the derivative of the activation function of the previous layer.
 
 - For illustration purposes, I digress with some scribbles I made:
-<br/><img src='https://p91g.github.io/patrick-moore.github.io/images/Backpropogation_scribble.jpg'>
+<br/><img src='https://p91g.github.io/patrick-moore.github.io/images/BackPropogation_scribble.jpg'>
 
 Note: 
 - Here the derivative is taken w.r.t X, but in practice we would only compute the gradient of W and b. 
