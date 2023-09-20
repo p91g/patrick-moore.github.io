@@ -7,7 +7,7 @@ tags:
   - category1
   - category2
 ---
-
+ <br/><img src='https://p91g.github.io/patrick-moore.github.io/images/bp.jpg'>{: .align-right width="300px"}
 In this post I give brief summary of what the backpropogation algorithm is. Backpropogation is fundamental to the optimisation process for neural networks! It is somewhat intimidating until you delve into the details.
 
 Definition
