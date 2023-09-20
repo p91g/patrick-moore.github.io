@@ -8,7 +8,8 @@ tags:
   - category2
 ---
  <br/><img src='https://p91g.github.io/patrick-moore.github.io/images/bp.jpg'>{: .align-right width="300px"}
-In this post I give brief summary of what the backpropogation algorithm is. Backpropogation is fundamental to the optimisation process for neural networks! It is somewhat intimidating until you delve into the details.
+- In this post I give brief summary of what the backpropogation algorithm is. 
+- Backpropogation is fundamental to the optimisation process for neural networks! It is somewhat intimidating until you delve into the details.
 
 Definition
 ===
@@ -30,7 +31,9 @@ The chain rule is used when the derivative is taken from multiple composed funct
 
 For a multivariable function, as is the case for multi-layer neural networks, the multivariable chain rule is used, which equates to taking the partial derivative of each variable and storing it in a gradient vector and dotting it with the derivative of the inner functions. Note, that the dot-product both sums and multiplies, meaning we add up the partials for each variable. 
 
-Because the inner functions are also vectors, the output is a matrix, which can be generalised to a handy matrix called the 'Jacobian'. Each row is a vector valued function and each column is a variable we are taking the derivative with respect to. The Jacobian tells us the relationship between each input element and each output element, so that we know how much the function will change for a small change to the inputs. Multiple vector valued functions are stacked together into one matrix and can be efficiently chained together with other jacobians, representing the layers of a neural network. For example, the Jacobian can be used to calculate the derivative of the output layer with respect to the input of a previous layer, by multiplying the Jacobian for the current layer with the derivative of the activation function of the previous layer.
+Because the inner functions are also vectors, the output is a matrix, which can be generalised to a handy matrix called the 'Jacobian'. Each row is a vector valued function and each column is a variable we are taking the derivative with respect to. The Jacobian tells us the relationship between each input element and each output element, so that we know how much the function will change for a small change to the inputs. 
+
+Multiple vector valued functions are stacked together into one matrix and can be efficiently chained together with other jacobians, representing the layers of a neural network. For example, the Jacobian can be used to calculate the derivative of the output layer with respect to the input of a previous layer, by multiplying the Jacobian for the current layer with the derivative of the activation function of the previous layer.
 
 Note: 
 - Here the derivative is taken w.r.t X, but in practice we would only compute the gradient of W and b. 
