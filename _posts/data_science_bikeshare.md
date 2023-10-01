@@ -21,16 +21,25 @@ These problems remain a complex and ubiquitous challenge for bikeshare operators
 
 Ultimately, if left unaddressed, they may lead to underuse of a scheme and, in some cases, even result in scheme closure (DeMaio, 2021). Researchers have attempted to develop and implement methods for addressing these issues by utilising: 
 - statistical models;
-- machine learning algorithms and;
+- machine learning algorithms;
 - optimisation techniques. 
 
 Data Science Solutions
 ---
-**For the challenge of selecting docking station locations**:
-- Modelling the factors influencing demand
-- Predicting long-term demand
-- Constraint optimisation of station location
+There are a number of data science methods that can be used address these issues.
 
-**For the challenge of redistributing bikes between stations**:
+**Extracting trip data**
+- Web-scraping bikeshare operator APIs
+
+**Feature extraction**
+- Exporting and pre-processing built environment data
+- Street morphology feature extraction
+
+**Selecting docking station locations**:
+- Regression analysis of the factors influencing demand
+- Regression to predict long-term demand
+- Constrained optimisation of station locations
+
+**Redistributing bikes between stations**:
 - Forecasting short-term demand
 - Optimising bike availability
