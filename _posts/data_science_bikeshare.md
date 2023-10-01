@@ -1,6 +1,6 @@
 ---
 title: 'Data Science for Bikeshare'
-date: 2023-10-14
+date: 2023-10-01
 permalink: /posts/data_science_bikeshare/
 tags:
   - bikeshare
