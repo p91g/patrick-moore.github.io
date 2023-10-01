@@ -45,4 +45,4 @@ There are a number of data science methods that can be used address these issues
 - Forecasting short-term demand
 - Optimising bike availability
 
-You can find out how I have applied data science aproaches to these specific challenges my individual posts. 
+You can find out how I have applied data science aproaches to these specific challenges in my individual posts. 
