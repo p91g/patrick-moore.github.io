@@ -10,13 +10,15 @@ tags:
 
 Bikeshare research
 ===
-Scholarly research into the use of bikeshare schemes (BSS) has grown significantly over the past decade (see figure 1), with great interest in their contribution towards decarbonising transport (see Shaheen et al., 2018) off-setting societal health costs (see Otero et al., 2018) and reducing the number of vehicles needed per person. BSS are a pooled system of bicycles which users hire on a short-term basis for a fee per minute (Urban Transport Group, 2021). Increasingly, bikeshare has become a popular form of urban transportation, growing from 16 schemes in 2004 to over 2,000 worldwide in 2021 (DeMaio, 2021). 
+Scholarly research into the use of bikeshare schemes (BSS) has grown significantly over the past decade, with great interest in their contribution towards decarbonising transport  off-setting societal health costs  and reducing the number of vehicles needed per person. BSS are a pooled system of bicycles which users hire on a short-term basis for a fee per minute. Increasingly, bikeshare has become a popular form of urban transportation, growing from 16 schemes in 2004 to over 2,000 worldwide in 2021 (see figure 1).
+
+
 
 Challenges
 ===
 There are difficulties, however, concerning the _planning, implementation and operational efficiency_ of new and existing schemes. Specifically, is: 
-1. the pre-deployment concern of **selecting docking station locations** (Liu et al., 2015);
-2. the post-deployment requirement of **redistributing bikes** around the system (Zhang et al., 2022).
+1. the pre-deployment concern of **selecting docking station locations**;
+2. the post-deployment requirement of **redistributing bikes** around the system.
 
 These problems remain a complex and ubiquitous challenge for bikeshare operators, impacting the capacity to operate effectively and generate revenue. 
 
