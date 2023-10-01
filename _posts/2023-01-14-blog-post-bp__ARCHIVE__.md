@@ -1,7 +1,7 @@
 ---
 title: 'Deep Learning - What is backpropogation?'
 date: 2023-01-14
-permalink: /posts/2023/01/blog-post-1_ARCHIVE__/
+permalink: /posts/2023/01/blog-post-1/
 tags:
   - cool posts
   - category1
