@@ -13,9 +13,16 @@ Scholarly research into the use of bikeshare schemes (BSS) has grown significant
 
 Challenges
 ===
-There are difficulties, however, concerning the _planning, implementation and operational efficiency_ of new and existing schemes. Specifically, is the pre-deployment concern of **selecting docking station locations** (Liu et al., 2015) and the post-deployment requirement of **redistributing bikes** around the system (Zhang et al., 2022). These problems remain a complex and ubiquitous challenge for bikeshare operators, impacting the capacity to operate effectively and generate revenue. 
+There are difficulties, however, concerning the _planning, implementation and operational efficiency_ of new and existing schemes. Specifically, is: 
+1. the pre-deployment concern of **selecting docking station locations** (Liu et al., 2015);
+2. the post-deployment requirement of **redistributing bikes** around the system (Zhang et al., 2022).
 
-Ultimately, if left unaddressed, they may lead to underuse of a scheme and, in some cases, even result in scheme closure (DeMaio, 2021). Researchers have attempted to develop and implement methods for addressing these issues by _utilising statistical models, machine learning algorithms and optimisation techniques_. 
+These problems remain a complex and ubiquitous challenge for bikeshare operators, impacting the capacity to operate effectively and generate revenue. 
+
+Ultimately, if left unaddressed, they may lead to underuse of a scheme and, in some cases, even result in scheme closure (DeMaio, 2021). Researchers have attempted to develop and implement methods for addressing these issues by utilising: 
+- statistical models;
+- machine learning algorithms and;
+- optimisation techniques. 
 
 Data Science Solutions
 ---
