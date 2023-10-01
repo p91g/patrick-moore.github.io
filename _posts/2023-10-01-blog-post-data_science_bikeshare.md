@@ -5,6 +5,7 @@ permalink: /posts/2023/10/blog-post-data-science-bikeshare/
 tags:
   - bikeshare
 ---
+**What is covered?**
 - On this page I introduce how data science can be used to tackle challenges facing bikeshare schemes 
 
 Bikeshare research
