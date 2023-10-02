@@ -32,7 +32,7 @@ Data Science Solutions
 ---
 There are a number of data science methods that can be used address these issues, such as:
 
-- **Regression models** to estimate the demand for bikeshare trips based on various factors, such as weather, time, location, and socio-demographics.
+- **Regression models** to estimate the demand of bikeshare based on various factors, such as the built environment, weather, time, location, and socio-demographics.
 - **Classification models** to predict the availability of bikes or docks at a given station at a given time.
 - **Clustering models** to identify patterns of usage and group stations into different categories based on their characteristics.
 - **Optimisation models** to determine the optimal number and location of docking stations, as well as the optimal routing and scheduling of rebalancing vehicles. 
