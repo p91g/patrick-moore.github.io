@@ -30,22 +30,11 @@ Ultimately, if left unaddressed, they may lead to underuse of a scheme and, in s
 
 Data Science Solutions
 ---
-There are a number of data science methods that can be used address these issues.
+There are a number of data science methods that can be used address these issues, such as:
 
-**Extracting trip data**
-- Web-scraping bikeshare operator APIs
-
-**Feature extraction**
-- Exporting and pre-processing built environment data
-- Street morphology feature extraction
-
-**Selecting docking station locations**:
-- Regression analysis of the factors influencing demand
-- Regression to predict long-term demand
-- Constrained optimisation of station locations
-
-**Redistributing bikes between stations**:
-- Forecasting short-term demand
-- Optimising bike availability
+- **Regression models** to estimate the demand for bikeshare trips based on various factors, such as weather, time, location, and socio-demographics.
+- **Classification models** to predict the availability of bikes or docks at a given station at a given time.
+- **Clustering models** to identify patterns of usage and group stations into different categories based on their characteristics.
+- **Optimisation models** to determine the optimal number and location of docking stations, as well as the optimal routing and scheduling of rebalancing vehicles. 
 
 You can find out how I have applied data science aproaches to these specific challenges in my individual posts. 
