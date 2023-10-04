@@ -1,6 +1,13 @@
-<div class="entry">
-  <h2>
-    <a href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title }}</a>
-  </h2>
-  <p class="entry-date">{{ post.date | date: "%B %-d, %Y" }}</p>
-</div>
+---
+layout: archive
+title: "Posts"
+permalink: /posts/
+author_profile: true
+---
+  
+  {% include base_path %}
+
+
+{% for post in site.posts %}
+{% include archive-single.html %}
+{% endfor %}
