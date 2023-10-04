@@ -24,7 +24,9 @@ Interests
 ------
 From p-values to deep learning, my experience in visualising, exploring and modelling is wide-ranging. I'm comfortable scraping the web to obtain training data and pre-processing big data, and can provide inference into statistical models and train machine learning models for prediciton. I've also had exposure non-transport projects, such as building network intrusions classifier with deep learning.
 
-Through my PhD I gained an appreciation for flexible modelling techniques as they allow for the most tinkering! Generalised Additive Models featured heavily in my research for the inference side and handling complexities of spatial data. On the prediction side, I applied deep learning for the prediction of bikeshare trips and benchmarked against other machine learning (ML) algorithms. I have applied optimisation heuristics to transport data, using both linear programming and genetic algorithms. I particularly enjoy bringing my data to life visually, whether that be an interactive map or a simple bar chart. 
+Through my PhD I gained an appreciation for flexible modelling techniques as they allow for the most tinkering! Generalised Additive Models featured heavily in my research for the inference side and handling complexities of spatial data. 
+
+On the prediction side, I applied deep learning for the prediction of bikeshare trips and benchmarked against other machine learning (ML) algorithms. I have applied optimisation heuristics to transport data, using both linear programming and genetic algorithms. I particularly enjoy bringing my data to life visually, whether that be an interactive map or a simple bar chart. 
 
 I generally spend equal time between R and Python, with Python typically used for ML and R for advanced statistical models.
 
