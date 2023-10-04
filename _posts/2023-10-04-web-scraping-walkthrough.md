@@ -23,7 +23,7 @@ First we need to load the necessary libraries
 knitr::opts_chunk$set(echo = FALSE, message=FALSE)
 ```
 
-```{r, echo = TRUE, message=FALSE}
+```r
 library(tidyverse)
 library(xml2)
 library(XML)
@@ -43,31 +43,31 @@ Below describes the process for obtaining data from the London scheme.
 
 The first line uses the httr::GET() function to send a GET request to the URL “https://tfl.gov.uk/tfl/syndication/feeds/cycle-hire/livecyclehireupdates.xml”, which is an XML file that contains information about the status of the cycle hire stations in London. The result of the request is stored in the object status_api_call.
 
-```{r echo = TRUE}
+```r
 status_api_call <- httr::GET("https://tfl.gov.uk/tfl/syndication/feeds/cycle-hire/livecyclehireupdates.xml")
 ```
 
 The second line uses the xmlInternalTreeParse() function to parse the XML content of status_api_call into an internal tree representation, which is easier to manipulate and query. The result is stored in the object api_xml2.
 
-```{r echo = TRUE}
+```r
 api_xml2 = xmlInternalTreeParse(status_api_call)
 ```
 
 The printed output is in the wrong format, so we need convert into a df.
-```{r echo = TRUE}
+```r 
 #cat(saveXML(api_xml2, nchars = 10))
 
 ```
 
 The fourth line uses the Sys.time() function to get the current system time and store it in the object current_time. This is needed to ensure that the date and time is correct in the final df, as sometime bikeshare operators have errors with the datetime provided. 
 
-```{r echo = TRUE}
+```r
 current_time = Sys.time()
 ```
 
 The fifth line uses the xmlToDataFrame() function to convert the XML tree api_xml2 into a data frame, which is a tabular format that can be used for further analysis. The data frame is then piped (|>) to the mutate() function, which adds a new column called datetime with the value of current_time. This can help to keep track of when the data was obtained. The result is stored in the object xmldf.
 
-```{r echo = TRUE, results='asis'}
+```r 
 xmldf = xmlToDataFrame(api_xml2) |>
   dplyr::mutate(datetime = current_time)
 
@@ -83,7 +83,7 @@ We then need to save this data to a database. This code is an example of how to 
 
 The first line uses the dbConnect() function to establish a connection to a SQLite database file located at “C:/Users/user/Documents/name/db_name”. The result of the connection is stored in the object con
 
-```{r, echo = TRUE}
+```r
 con <- dbConnect(RSQLite::SQLite(), dbname="C:/Users/patri/Documents/R projs/city_comparison/cities_database.db")
 ```
 
@@ -91,21 +91,21 @@ con <- dbConnect(RSQLite::SQLite(), dbname="C:/Users/patri/Documents/R projs/cit
 
 The second line uses the dbWriteTable() function to write the data frame xmldf to a table named ‘cities_database_table’ in the database. The append=TRUE argument indicates that the data will be added to the existing table, rather than replacing it
 
-```{r, echo = TRUE}
+```r
 # RSQLite::dbWriteTable(con, name='cities_database_table', xmldf,append=TRUE)
 ```
 
 Check what tables exist in your database
 
 The third line uses the dbListTables() function to list the names of all the tables in the database. This can help to check if the table was created successfully.
-```{r, echo = TRUE}
+```r
 # RSQLite::dbListTables(con)
 ```
 
 create dataframe from DB
 
 The fourth line uses the dbGetQuery() function to execute a SQL query that selects all the rows and columns from the table ‘cities_database_table’ and returns them as a data frame. The result is stored in the object cities_db_df.
-```{r, echo = TRUE}
+```r
 # cities_db_df <- dbGetQuery(con, "SELECT * FROM cities_database_table")
 ```
 
@@ -113,7 +113,7 @@ The fourth line uses the dbGetQuery() function to execute a SQL query that selec
 
 Separate to this script, we need to ensure that we collect this data every 10 minutes by using a timer feature to re-run the script. 
 
-```{r, echo=TRUE}
+```r
 # library(taskscheduleR)
 # taskscheduler_create(taskname = "my_script_task", 
                      #rscript = "C:/Users/username/Documents/my_script.R", 
