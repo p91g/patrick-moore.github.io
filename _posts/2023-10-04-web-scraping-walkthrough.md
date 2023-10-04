@@ -23,7 +23,7 @@ First we need to load the necessary libraries
 knitr::opts_chunk$set(echo = FALSE, message=FALSE)
 ```
 
-```r
+```r?example=spatial
 library(tidyverse)
 library(xml2)
 library(XML)
@@ -32,7 +32,6 @@ library(RSQL) #Generate and Process 'SQL' Queries in R
 library(RSQLite) #Can create an in-memory SQL database
 library(odbc) #Contains drivers to connect to a database
 library(DBI) #Contains functions for interacting with the database
-
 ```
 
 **Get the data**
