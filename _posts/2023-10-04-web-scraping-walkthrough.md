@@ -1,12 +1,9 @@
 ---
 title: "Web-scraping London bikeshare bike availability"
-output: html_document
 date: 2023-10-03
 permalink: /posts/2023/10/web-scraping-walkthrough2
 ---
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, message=FALSE)
-```
+
 
 This code is an example of how to use the R programming language to access and process data from a bikeshare operator and obtain docking station bike availability data for that moment in time. This is an example for one city, but in principle the same could be done for many cities and then stored in a combined database.
 
@@ -19,10 +16,12 @@ The code will achieve the following objectives:
 - It will convert the XML tree into a data frame, which is a tabular format that can be used for further analysis. It will also add a new column with the current time to the data frame, so that the user can keep track of when the data was obtained.
 
 
-## 
+**Get docking station data for current time**
 First we need to load the necessary libraries
 
-#-------- Get docking station data for current time ----------#
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message=FALSE)
+```
 
 ```{r, echo = TRUE, message=FALSE}
 library(tidyverse)
