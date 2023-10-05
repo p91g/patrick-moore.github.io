@@ -303,4 +303,4 @@ compress_html:
     envs: development
 # exclude
 exclude:
-  - posts/2023-10-05-web-scraping-walkthrough-london.html
+  -_posts/2023-10-05-web-scraping-walkthrough-london.html
