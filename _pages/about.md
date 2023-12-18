@@ -22,7 +22,7 @@ I have created this site to host a summary of my PhD research, including the dif
 
 Interests
 ------
-From p-values to deep learning, my experience in visualising, exploring and modelling is wide-ranging. I'm comfortable scraping the web to obtain training data and pre-processing big data, and can provide inference into statistical models and train machine learning models for prediciton. I've also had exposure non-transport projects, such as building network intrusions classifier with deep learning.
+From p-values to deep learning, my experience in visualising, exploring and modelling is wide-ranging. I'm comfortable scraping the web to obtain training data and pre-processing big data, and can provide inference into statistical models and train machine learning models for prediciton. I've also had exposure non-transport projects, such as building a network intrusion classifier using deep learning.
 
 Through my PhD, I gained an appreciation for flexible modelling techniques as they allow for the most tinkering! Generalised Additive Models featured heavily in my research for the inference side and handling complexities of spatial data. 
 
