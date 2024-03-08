@@ -8,7 +8,7 @@ tags:
 **What is covered?**
 - On this page I introduce how data science can be used to tackle challenges facing bikeshare schemes 
 
-Bikeshare research
+Bikeshare growth
 ===
 - Bikeshare has grown rapidly in the last 30 years, going from 350 operating worldwide in 2010 to over 2,000 worldwide in 2021 (see figure 1)
 - There are many benefits promoted from bikeshare, including improved physical health, cost-saving, efficient travel, car use reduction, less pollution and public transport integration
