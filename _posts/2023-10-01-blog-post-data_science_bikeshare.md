@@ -34,7 +34,7 @@ My research focussed on the influence of the built environment on use in order t
 
 This comprised of two methodological stages using web-scraped bikeshare trip data and open-source built environment data.
 
-![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/50b4ffea-8e88-4569-ac9b-e864c7f682da)
+![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/dd61f88d-1732-4c36-a20c-56b088c59707)
 
 
 **Stage 1**:
