@@ -23,8 +23,8 @@ Barriers to use persist, however, including  **docking station locations**
 
 <br/><img src='https://p91g.github.io/patrick-moore.github.io/images/find_bss.png' width='600' height='auto'>
 
-- Under-use threatens viability, with more than 28 UK schemes closing since 2010
-- These problems remain a complex and ubiquitous challenge for bikeshare operators, impacting the capacity to operate effectively and generate revenue. 
+- Under-use threatens viability, with more than 28 UK schemes closing since 2010 🚫
+- These problems remain a complex and ubiquitous challenge for bikeshare operators, impacting the capacity to operate effectively and generate revenue 💷💷💷. 
 
 What can be done?
 ===
