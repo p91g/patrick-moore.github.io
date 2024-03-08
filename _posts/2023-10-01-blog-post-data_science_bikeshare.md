@@ -34,7 +34,7 @@ My research focussed on the influence of the built environment in order to model
 
 This comprised of two methodological stages using web-scraped bikeshare trip data and open-source built environment data.
 
-![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/63d3f02c-c389-48c4-80b6-e180d368d116)
+![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/50b4ffea-8e88-4569-ac9b-e864c7f682da)
 
 
 **Stage 1**:
