@@ -21,7 +21,7 @@ Challenges
 Barriers to use persist, however, including  **docking station locations**
 - The largest barrier to using bikeshare cited among UK respondents (CoMo, 2022), at 56%, is availability/bike locations. 
 
-<br/><img src='https://p91g.github.io/patrick-moore.github.io/images/find_bss.png' width='300' height='auto'>
+<br/><img src='https://p91g.github.io/patrick-moore.github.io/images/find_bss.png' width='600' height='auto'>
 
 - Under-use threatens viability, with more than 28 UK schemes closing since 2010
 - These problems remain a complex and ubiquitous challenge for bikeshare operators, impacting the capacity to operate effectively and generate revenue. 
