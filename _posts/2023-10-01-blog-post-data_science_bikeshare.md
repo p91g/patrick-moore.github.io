@@ -25,7 +25,7 @@ Barriers to use persist, however, including  **docking station locations**
 - Under-use threatens viability, with more than 28 UK schemes closing since 2010
 - These problems remain a complex and ubiquitous challenge for bikeshare operators, impacting the capacity to operate effectively and generate revenue. 
 
-**What can be done?**
+#What can be done?
 A natural question that arises is: what are the factors that determine bikeshare use and how can they inform bikeshare operations?
 My research focussed on the influence of the built environment in order to inform and optimise the location of docking stations. 
 
