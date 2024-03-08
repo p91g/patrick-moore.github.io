@@ -40,7 +40,6 @@ Generate statistical models to **understand relationships**. Supported by machin
 
 **Stage 2**
 Use optimisation algorithms to **search for solutions** for suitable station locations. 
-![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/56572c40-6bd9-46a7-ae77-35b22dde9f4f)
-
+< img src="https://github.com/p91g/patrick-moore.github.io/assets/93223269/56572c40-6bd9-46a7-ae77-35b22dde9f4f" width="50%" height="auto">
 
 You can find out how I have applied data science aproaches to these specific challenges in my individual posts. 
