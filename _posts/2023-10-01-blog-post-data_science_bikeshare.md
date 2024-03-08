@@ -38,7 +38,7 @@ This comprised of two methodological stages using web-scraped bikeshare trip dat
 
 
 **Stage 1**:
-Generate statistical models to **understand relationships**. Supported by machine learning and statistical models to make **predictions**
+Generate statistical models to **understand relationships**. Supported by machine learning and statistical models to make **predictions** for potential locations.
 
 ![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/6d72e701-21f3-4818-a977-a249a2d39ced)
 
