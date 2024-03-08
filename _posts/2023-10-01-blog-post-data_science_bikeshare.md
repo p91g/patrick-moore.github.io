@@ -30,9 +30,9 @@ What can be done?
 ===
 A natural question that arises is: what are the factors that determine bikeshare use and how can they inform bikeshare operations?
 
-My research focussed on the influence of the built environment in order to inform and optimise the location of docking stations. 
+My research focussed on the influence of the built environment in order to model and optimise the location of docking stations. 
 
-This comprised of two methodological stages using web-scraped bikeshare trip data and open-source built environment data to model and optimise docking station locations.
+This comprised of two methodological stages using web-scraped bikeshare trip data and open-source built environment data.
 
 ![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/63d3f02c-c389-48c4-80b6-e180d368d116)
 
