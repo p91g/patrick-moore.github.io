@@ -32,6 +32,7 @@ A natural question that arises is: what are the factors that determine bikeshare
 
 My research focussed on the influence of the built environment in order to inform and optimise the location of docking stations. 
 
+This comprised of two methodological stages:
 
 **Stage 1**
 Generate statistical models to **understand relationships**. Supported by machine learning and statistical models to make **predictions**
