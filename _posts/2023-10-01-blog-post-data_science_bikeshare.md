@@ -10,7 +10,8 @@ tags:
 
 Bikeshare research
 ===
-Scholarly research into the use of bikeshare schemes (BSS) has grown significantly over the past decade, with great interest in their contribution towards decarbonising transport  off-setting societal health costs  and reducing the number of vehicles needed per person. BSS are a pooled system of bicycles which users hire on a short-term basis for a fee per minute. Increasingly, bikeshare has become a popular form of urban transportation, growing from 16 schemes in 2004 to over 2,000 worldwide in 2021 (see figure 1).
+- Bikeshare has grown rapidly in the last 30 years, going from 350 operating worldwide in 2010 to over 2,000 worldwide in 2021 (see figure 1)
+- There are many benefits promoted from bikeshare, including improved physical health, cost-saving, efficient travel, car use reduction, less pollution and public transport integration
 
 <br/><img src='https://p91g.github.io/patrick-moore.github.io/images/2023-06-30 11_46_32-Microsoft Word - Meddin map mid-2022 report_FINAL.docx (2).png'>
 
