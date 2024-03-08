@@ -29,19 +29,17 @@ Barriers to use persist, however, including  **docking station locations**
 What can be done?
 ===
 A natural question that arises is: what are the factors that determine bikeshare use and how can they inform bikeshare operations?
+
 My research focussed on the influence of the built environment in order to inform and optimise the location of docking stations. 
 
-This comprised of three methodological components:
-- statistical models to **understand relationships**;
-- machine learning and statistical models to make **predictions**;
-- optimisation algorithms to **search for solutions** for station locations. 
-
-This is illustrated in the two key stages below.
 
 **Stage 1**
+Generate statistical models to **understand relationships**. Supported by machine learning and statistical models to make **predictions**
+
 ![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/6d72e701-21f3-4818-a977-a249a2d39ced)
 
 **Stage 2**
+Use optimisation algorithms to **search for solutions** for suitable station locations. 
 ![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/56572c40-6bd9-46a7-ae77-35b22dde9f4f)
 
 
