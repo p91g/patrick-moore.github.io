@@ -32,17 +32,23 @@ A natural question that arises is: what are the factors that determine bikeshare
 
 My research focussed on the influence of the built environment on use in order to model and optimise the location of docking stations in four UK cities. 
 
-This comprised of two methodological stages using web-scraped bikeshare trip data and open-source built environment data.
+This comprised of three methodological stages using web-scraped bikeshare trip data and open-source built environment data.
 
 ![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/dd61f88d-1732-4c36-a20c-56b088c59707)
 
-
 **Stage 1**:
+- Obtain bikeshare trip data from docking station APIs
+- Trip data spatially joined to built environment data, optained from OpenStreetMap
+
+![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/0ebd4b83-a38c-4601-8e3f-2891071d0ff5)
+
+
+**Stage 2**:
 Generate statistical models to **understand relationships** and identify predictors. Supported by machine learning and statistical models to make **predictions** for potential locations.
 
 ![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/6d72e701-21f3-4818-a977-a249a2d39ced)
 
-**Stage 2**:
+**Stage 3**:
 Use optimisation algorithms to **search for solutions** for suitable station locations. 
 ![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/56572c40-6bd9-46a7-ae77-35b22dde9f4f)
 
