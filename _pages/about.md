@@ -30,7 +30,7 @@ During my PhD, I developed a deep appreciation for versatile modeling techniques
 
 In the practical application of my predictive models, I designed several optimization solutions for the placement of bikeshare stations. My approach involved the use of evolutionary algorithms, which resulted in innovative and efficient distribution strategies that significantly improved accessibility and user demand within bikeshare systems. 
 
-I particularly enjoy bringing my data to life visually, whether that be an interactive map or a simple bar chart. 
+I particularly enjoy bringing my data to life visually, whether that be a dashboard, an interactive map or exploring a plotting library. 
 
 I've also had exposure non-transport projects, such as building a network intrusion classifier using deep learning.
 
