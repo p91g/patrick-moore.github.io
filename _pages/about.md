@@ -22,13 +22,17 @@ I have created this site to host a summary of my PhD research, including the dif
 
 Interests
 ------
-From p-values to deep learning, my experience in visualising, exploring and modelling is wide-ranging. I have expertise in web scraping for data collection and in preprocessing large datasets. Additionally, I possess the skills to interpret statistical models and to develop and train machine learning models for predictive analysis. I've also had exposure non-transport projects, such as building a network intrusion classifier using deep learning.
+From p-values to deep learning, my experience in visualising, exploring and modelling is wide-ranging. 
+
+I have experience with web scraping and preprocessing large datasets. I'm also skilled at interpreting statistical models and training machine learning models for predictive analysis. 
 
 During my PhD, I developed a deep appreciation for versatile modeling techniques, which provided ample opportunities for experimentation. Generalized Additive Models (GAMs) played a significant role in my research, particularly for inference purposes and in managing the intricacies of spatial data. On the prediction side, I have benchmarked several machine learning (ML) algorithms to advanced statistical models. 
 
 In the practical application of my predictive models, I designed several optimization solutions for the placement of bikeshare stations. My approach involved the use of evolutionary algorithms, which resulted in innovative and efficient distribution strategies that significantly improved accessibility and user demand within bikeshare systems. 
 
 I particularly enjoy bringing my data to life visually, whether that be an interactive map or a simple bar chart. 
+
+I've also had exposure non-transport projects, such as building a network intrusion classifier using deep learning.
 
 I generally spend equal time between R and Python, with Python typically used for ML and R for advanced statistical models.
 
