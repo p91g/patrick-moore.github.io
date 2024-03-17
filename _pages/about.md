@@ -22,7 +22,7 @@ I have created this site to host a summary of my PhD research, including the dif
 
 Interests
 ------
-From p-values to deep learning, my experience in visualising, exploring and modelling is wide-ranging. 
+From p-values to deep learning, my experience in visualising, exploring and modelling data is wide-ranging. 
 
 I have experience with web scraping and preprocessing large datasets. I'm also skilled at interpreting statistical models and training machine learning (ML) models for predictive analysis. 
 
