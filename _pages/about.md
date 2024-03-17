@@ -26,7 +26,7 @@ From p-values to deep learning, my experience in visualising, exploring and mode
 
 I have experience with web scraping and preprocessing large datasets. I'm also skilled at interpreting statistical models and training machine learning (ML) models for predictive analysis. 
 
-During my PhD, I developed a deep appreciation for versatile modeling techniques, which provided ample opportunities for experimentation. Generalized Additive Models (GAMs) played a significant role in my research, particularly for inference purposes and in managing the intricacies of spatial data. On the prediction side, I am fascinated with comparing the results of statistical models to ML algorithms, exploring both their accuracy and explainability.
+During my PhD, I developed a deep appreciation for versatile modeling techniques, which provided ample opportunities for experimentation. Generalized Additive Models (GAMs) played a significant role in my research, particularly for inference purposes and in managing the intricacies of spatial data. I am fascinated with comparing the results of statistical models to ML algorithms, exploring both their accuracy and explainability.
 
 In the practical application of my predictive models, I designed several optimization solutions for the placement of bikeshare stations. My approach involved the use of evolutionary algorithms, which resulted in innovative and efficient distribution strategies that significantly improved accessibility and user demand within bikeshare systems. 
 
