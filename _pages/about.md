@@ -18,13 +18,13 @@ redirect_from:
 
 What is this site for?
 ------
-I have created this site to host a summary of my PhD research, including the different methods and tools that I used to visualise, explore and analyse data. I hope that others interested in transportation data science find some of the explanations useful for their research!  
+I have created this site to host a summary of my PhD research, including the different methods and tools that I have used. Hopefully others interested in the field find some of it useful!  
 
 Interests
 ------
 From p-values to deep learning, my experience in visualising, exploring and modelling data is wide-ranging. 
 
-I have experience with web scraping and preprocessing large datasets. I'm also skilled at interpreting statistical models, training machine learning (ML) models and optimising complex search spaces. 
+I have experience with web scraping and preprocessing large datasets. I've also honed my skills with interpreting statistical models, training machine learning (ML) models and applying optimisation algorithms. 
 
 During my PhD, I developed an appreciation for versatile modeling techniques, which provided ample opportunities for experimentation. Generalized Additive Models (GAMs) played a significant role in my research, particularly for inference purposes and in managing the intricacies of spatial data. I am fascinated with comparing the results of statistical models to ML algorithms, exploring both their accuracy and explainability.
 
