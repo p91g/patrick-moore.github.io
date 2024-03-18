@@ -14,7 +14,7 @@ redirect_from:
 
 🚲 I have a special interest in cycling research
 
-📚 My thesis focussed on explaining, predicting and optimising bikeshare demand in the UK
+📚 My thesis focussed on explaining, predicting and optimising bikeshare use in the UK
 
 What is this site for?
 ------
