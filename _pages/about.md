@@ -28,7 +28,7 @@ I have experience with web scraping and preprocessing large datasets. I've also 
 
 During my PhD, I developed an appreciation for versatile modeling techniques, which provided ample opportunities for experimentation. Generalised Additive Models (GAMs) played a large role in my research for inference purposes and in managing the intricacies of spatial data. I am fascinated with comparing the results of statistical models to ML algorithms, exploring both their accuracy and explainability.
 
-To apply my predictive model results, I designed several optimization solutions to allocate bikeshare stations. I used an evolutionary algorithm, incoporating built environment data, improving system efficiency, enhancing user demand and accessibility. 
+To apply my predictive model results, I designed several optimization solutions to allocate bikeshare stations. I used an evolutionary algorithm, incoporating built environment data to improve system efficiency and enhance user demand. 
 
 I particularly enjoy bringing my data to life visually, whether that be a dashboard, an interactive map or exploring a plotting library. 
 
