@@ -10,7 +10,7 @@ redirect_from:
  <br/><img src='https://p91g.github.io/patrick-moore.github.io/images/data_bss_city_groups.png'>{: .align-right width="300px"}
 🧑‍💻 I am a PhD graduate of Transportation Data Science
 
-🤖 🗺️ I am passionate about visualising, exploring and modelling data, particularly spatial data 
+🤖 🗺️ I am passionate about visualising, exploring and modelling data, particularly geo-spatial data 
 
 🚲 I have a special interest in cycling research
 
@@ -26,9 +26,9 @@ From p-values to deep learning, my experience in visualising, exploring and mode
 
 I have experience with web scraping and preprocessing large datasets. I've also honed my skills with interpreting statistical models, training machine learning (ML) models and applying optimisation algorithms. 
 
-During my PhD, I developed an appreciation for versatile modeling techniques, which provided ample opportunities for experimentation. Generalised Additive Models (GAMs) played a significant role in my research, particularly for inference purposes and in managing the intricacies of spatial data. I am fascinated with comparing the results of statistical models to ML algorithms, exploring both their accuracy and explainability.
+During my PhD, I developed an appreciation for versatile modeling techniques, which provided ample opportunities for experimentation. Generalised Additive Models (GAMs) played a large role in my research for inference purposes and in managing the intricacies of spatial data. I am fascinated with comparing the results of statistical models to ML algorithms, exploring both their accuracy and explainability.
 
-In the practical application of my predictive models, I designed several optimization solutions for the placement of bikeshare stations. My approach involved the use of evolutionary algorithms, resulting in innovative and efficient distribution strategies for improving accessibility and user demand within bikeshare systems. 
+To apply my predictive model results, I designed several optimization solutions for the placement of bikeshare stations. My approach involved the use of evolutionary algorithms, resulting in innovative and efficient distribution strategies for improving accessibility and user demand within bikeshare systems. 
 
 I particularly enjoy bringing my data to life visually, whether that be a dashboard, an interactive map or exploring a plotting library. 
 
