@@ -46,10 +46,12 @@ This comprised of three methodological stages using web-scraped bikeshare trip d
 **Stage 2**:
 Generate statistical models to **understand relationships** and identify predictors. Supported by machine learning and statistical models to make **predictions** for potential locations.
 
-![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/6d72e701-21f3-4818-a977-a249a2d39ced)
+![gamm_diagram](https://github.com/p91g/patrick-moore.github.io/assets/93223269/93b3a051-5d4d-4089-b52c-db6c87139ed5)
+
 
 **Stage 3**:
 Use optimisation algorithms to **search for solutions** for suitable station locations. 
-![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/56572c40-6bd9-46a7-ae77-35b22dde9f4f)
+![opti_model](https://github.com/p91g/patrick-moore.github.io/assets/93223269/5e876da5-8c15-49e4-8b8c-3010740e87a4)
+
 
 You can find out how I have applied data science aproaches to these specific challenges in my individual posts. 
