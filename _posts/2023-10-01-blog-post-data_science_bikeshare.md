@@ -44,12 +44,12 @@ This comprised of **four** methodological stages using web-scraped bikeshare tri
 - Pre-process built environment variables and spatially join with buffer zones
 
 **Stage 3**:
-- Generate statistical models to **understand relationships** and identify predictors.
-- Supported by machine learning and statistical models to make **predictions** for potential locations.
+- Generate statistical models to **estimate relationships**.
+- **Trip predictions** generated for candidate station locations.
 - Variation within and between cities is captured in one model using random effects. 
 
 **Stage 4**:
-- Use an evolutionary optimisation algorithm to **search for solutions** for suitable station locations.
+- Use of an evolutionary optimisation algorithm to **search for solutions** for suitable station locations.
 - Objectives of efficiency and accessibility are compared, incorporating urbam morphology information. 
 
 **Methodology diagram**
