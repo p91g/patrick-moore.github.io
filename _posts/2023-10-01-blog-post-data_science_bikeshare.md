@@ -52,6 +52,7 @@ This comprised of **four** methodological stages using web-scraped bikeshare tri
 - Use an evolutionary optimisation algorithm to **search for solutions** for suitable station locations.
 - Objectives of efficiency and accessibility are compared, incorporating urbam morphology information. 
 
+**Methodology diagram**
 ![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/a1cc1183-8aee-4fda-ae0f-1a6ca3d5b3d9)
 _Diagram of the data pre-processing, statistical modelling and analysis stages. Built environment data is processed and joined to the docking station buffers. Built environment variables are used to model trips, with random effects and splines fitted. An optimisation algorithm is used to determine locations that maximise coverage or minimise distance while maximising trips._
 
