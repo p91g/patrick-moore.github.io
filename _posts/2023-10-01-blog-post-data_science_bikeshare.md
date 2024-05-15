@@ -45,8 +45,8 @@ This comprised of **four** methodological stages using web-scraped bikeshare tri
 
 **Stage 3**:
 - Generate statistical models to **estimate relationships**.
-- **Trip predictions** generated for candidate station locations.
 - Variation within and between cities is captured in one model using random effects. 
+- **Trip predictions** generated for candidate station locations.
 
 **Stage 4**:
 - Use of an evolutionary optimisation algorithm to **search for solutions** for suitable station locations.
