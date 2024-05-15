@@ -50,7 +50,7 @@ This comprised of **four** methodological stages using web-scraped bikeshare tri
 
 **Stage 4**:
 - Use of an evolutionary optimisation algorithm to **search for solutions** for suitable station locations.
-- Objectives of efficiency and accessibility are compared, incorporating urbam morphology information. 
+- Objectives of efficiency and accessibility are compared, incorporating urban morphology information. 
 
 **Methodology diagram**
 ![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/a1cc1183-8aee-4fda-ae0f-1a6ca3d5b3d9)
