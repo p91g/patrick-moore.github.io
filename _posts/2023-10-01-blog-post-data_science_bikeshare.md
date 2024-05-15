@@ -32,26 +32,25 @@ A natural question that arises is: what are the factors that determine bikeshare
 
 My research focussed on the influence of the built environment on use in order to model and optimise the location of docking stations in four UK cities. 
 
-This comprised of three methodological stages using web-scraped bikeshare trip data and open-source built environment data.
-
-![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/dd61f88d-1732-4c36-a20c-56b088c59707)
-
-**Stage 1**:
-- Obtain bikeshare trip data from docking station APIs
-- Trip data spatially joined to built environment data, optained from OpenStreetMap
+This comprised of four  methodological stages using web-scraped bikeshare trip data and open-source built environment data.
 
 ![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/0ebd4b83-a38c-4601-8e3f-2891071d0ff5)
 
+**Stage 1**:
+- Obtain bikeshare trip data from docking station APIs from multiple UK cities
+- Extract open-source built environment data
+- Define buffer zones
 
 **Stage 2**:
-Generate statistical models to **understand relationships** and identify predictors. Supported by machine learning and statistical models to make **predictions** for potential locations.
-
-![gamm_diagram](https://github.com/p91g/patrick-moore.github.io/assets/93223269/93b3a051-5d4d-4089-b52c-db6c87139ed5)
-
+- Pre-process built environment variables and spatially join with buffer zones
 
 **Stage 3**:
-Use optimisation algorithms to **search for solutions** for suitable station locations. 
-![opti_model](https://github.com/p91g/patrick-moore.github.io/assets/93223269/5e876da5-8c15-49e4-8b8c-3010740e87a4)
+Generate statistical models to **understand relationships** and identify predictors. Supported by machine learning and statistical models to make **predictions** for potential locations. Variation within and between cities is captured in one model using random effects. 
+
+**Stage 4**:
+Use an evolutionary optimisation algorithm to **search for solutions** for suitable station locations. Objectives of efficiency and accessibility are compared, incorporating urbam morphology information. 
+
+![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/a1cc1183-8aee-4fda-ae0f-1a6ca3d5b3d9)
 
 
 You can find out how I have applied data science aproaches to these specific challenges in my individual posts. 
