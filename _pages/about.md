@@ -44,8 +44,6 @@ Academic & work background
 ------
 I started out in Urban Geography and transitioned into Transport Data Science after researching cycling in the Netherlands, where I obtained my MSc. During my time as a marketing analyst for several years I nurtured my love for data, while getting a handle on business strategy and working with clients.  
 
-Present
-------
-I am currently taking some time off after graduating, doing a bit of travelling, and exploring opportunities in the data science world shortly thereafter.
+
 
 
