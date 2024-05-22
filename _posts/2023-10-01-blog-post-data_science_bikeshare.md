@@ -36,7 +36,6 @@ This comprised of **four** methodological stages using web-scraped bikeshare tri
 
 ![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/0ebd4b83-a38c-4601-8e3f-2891071d0ff5)
 
-![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/43b07a45-f410-4ed2-ba23-a29a329bc510)
-
+![image](https://github.com/p91g/patrick-moore.github.io/assets/93223269/a52e68ce-b573-45ad-abb6-540f3b23570e)
 
 You can find out how I have applied data science aproaches to these specific challenges in my individual posts. 
