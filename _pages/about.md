@@ -26,7 +26,7 @@ From p-values to deep learning, my experience in visualising, exploring and mode
 
 I have experience with web scraping and preprocessing large datasets. I've also honed my skills with interpreting statistical models, training machine learning (ML) models and applying optimisation algorithms. 
 
-During my PhD, I applied statistical techniques that captured the complexities, including non-linear effects, of data sampled across multiple cities to generate a single model. The purpose was to make statements applicable to other cities and to make reliable predictions for potential docking station locations. 
+During my PhD, I applied statistical techniques that captured the complexities, including non-linear effects and spatial dependency, of data sampled across multiple cities to generate a single model. The purpose was to make statements applicable to other cities and to make reliable predictions for potential docking station locations. 
 
 I am fascinated by the influence of the built environment on how we live in cities. I have developed spatial clusters that bring together indicators of land use and connectivity to describe urban morphology. These form a unique component of my research in explaining demand for bikeshare.  
 
