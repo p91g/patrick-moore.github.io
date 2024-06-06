@@ -26,7 +26,7 @@ From p-values to deep learning, my experience in visualising, exploring and mode
 
 I have experience with web scraping and preprocessing large datasets. I've also honed my skills with interpreting statistical models, training machine learning (ML) models and applying optimisation algorithms. 
 
-During my PhD, I developed an appreciation for versatile modeling techniques, which provided ample opportunities for experimentation. Generalised Additive Models (GAMs) played a large role in my research for inference purposes and in managing the intricacies of spatial data. I am fascinated with comparing the results of statistical models to ML algorithms, exploring both their accuracy and explainability.
+During my PhD, I applied statistical techniques that captured the complexities, including non-linear effects, of data sampled across multiple cities to generate a single model. The purpose was to make statements applicable to other cities and to make reliable predictions for potential docking station locations. I am fascinated with comparing the results of statistical models to ML algorithms, exploring both their accuracy and explainability.
 
 To apply my predictive model results, I designed several optimisation solutions to allocate bikeshare stations. I used an evolutionary algorithm, incoporating built environment data to improve system efficiency and enhance user demand. 
 
