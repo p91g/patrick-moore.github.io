@@ -36,7 +36,7 @@ I particularly enjoy bringing my data to life visually, whether that be a dashbo
 
 I've also had exposure non-transport projects, such as building a network intrusion classifier using deep learning.
 
-I generally spend equal time between R and Python, with Python typically used for ML and R for advanced statistical models.
+I generally spend equal time between R and Python, with Python typically used for ML and data wrangling and R for statistical modelling.
 
 Personal
 ------
