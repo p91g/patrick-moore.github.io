@@ -28,7 +28,7 @@ I have experience with web scraping and preprocessing large datasets. I've also 
 
 During my PhD, I applied statistical techniques that captured the complexities, including non-linear effects and spatial dependency, of data sampled across multiple cities to generate a single model. The purpose was to make statements applicable to other cities and to make reliable predictions for potential docking station locations. 
 
-I am fascinated by the influence of the built environment on how we live in cities. I have developed spatial clusters that bring together indicators of land use and connectivity to describe urban morphology. These form a unique component of my research in explaining demand for bikeshare.  
+I am fascinated by the influence of the built environment on how we live in cities. I have developed spatial clusters that bring together indicators of land use and connectivity to describe urban morphology. These form a central component of my research in explaining demand for bikeshare.  
 
 To apply my predictive model results, I designed several optimisation solutions to allocate bikeshare stations. I used an evolutionary algorithm, incoporating built environment data to improve system efficiency and enhance user demand. 
 
