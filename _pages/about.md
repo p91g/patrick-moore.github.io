@@ -22,21 +22,19 @@ I have created this site to host a summary of my PhD research, including the dif
 
 Interests
 ------
-From p-values to deep learning, my experience in visualising, exploring and modelling data is wide-ranging. 
+I am nearing completion of a PhD in Intelligent Transport Systems, focusing on optimising bikeshare operations through analysis of the built environment. My research employs an integrated analytical framework comprising:
+1. Statistical modelling to infer relationships between the built environment and bikeshare use.
+2. Cluster analysis to categorise UK cities based on urban characteristics.
+3. Machine learning to predict future bikeshare use patterns based on these city clusters.
+4. Development of an optimisation approach to determine optimal station locations, aiming to control system dynamics and improve overall efficiency.
 
-I have experience with web scraping and preprocessing large datasets. I've also honed my skills with interpreting statistical models, training machine learning (ML) models and applying optimisation algorithms. 
+Through my PhD, I have nurtured a fascination with understanding the cities we live in, seeking out new ways to capture and analyse geo-spatial data. From performing graph analysis on road networks to analysing the spatial distribution of buildings or segmenting city space into distinct clusters, I find excitement in discovering the underlying structures of the urban environment and how people interact with it.
 
-During my PhD, I applied statistical techniques that captured the complexities, including non-linear effects and spatial dependency, of data sampled across multiple cities to generate a single model. The purpose was to make statements applicable to other cities and to make reliable predictions for potential docking station locations. 
+I particularly enjoy bringing data to life visually, whether that be a dashboard, an interactive map or exploring a plotting library. This passion for visualisation enhances my ability to communicate complex spatial patterns and relationships effectively.
 
-I am fascinated by the influence of the built environment on how we live in cities. I have developed spatial clusters that bring together indicators of land use and connectivity to describe urban morphology. These form a central component of my research in explaining demand for bikeshare.  
+While my focus is on transport systems, I've also had exposure to diverse projects, such as building a network intrusion classifier using deep learning. This breadth of experience has enhanced my adaptability and problem-solving skills.
 
-To apply my predictive model results, I designed several optimisation solutions to allocate bikeshare stations. I used an evolutionary algorithm, incoporating built environment data to improve system efficiency and enhance user demand. 
-
-I particularly enjoy bringing my data to life visually, whether that be a dashboard, an interactive map or exploring a plotting library. 
-
-I've also had exposure non-transport projects, such as building a network intrusion classifier using deep learning.
-
-I generally spend equal time between R and Python, with Python typically used for ML and data wrangling and R for statistical modelling.
+I primarily work with Python for geo-spatial data wrangling and machine learning, complemented by R for statistical modelling. This combination allows me to leverage the strengths of both languages to tackle different projects.
 
 Personal
 ------
