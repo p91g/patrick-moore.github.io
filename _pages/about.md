@@ -22,7 +22,7 @@ I have created this site to host a summary of my PhD research, including the dif
 
 Interests
 ------
-I am nearing completion of a PhD in Intelligent Transport Systems, focusing on optimising bikeshare operations through analysis of the built environment. My research employs an integrated analytical framework comprising:
+I am nearing completion of a PhD in Intelligent Transport Systems, focusing on optimising bikeshare operations through analysis of the built environment. My research employed an integrated analytical framework comprising:
 1. Statistical modelling to infer relationships between the built environment and bikeshare use.
 2. Cluster analysis to categorise UK cities based on urban characteristics.
 3. Machine learning to predict future bikeshare use patterns based on these city clusters.
