@@ -42,7 +42,7 @@ Originally from Cambridge, keen rock climber, whippet owner, enjoyer of cooking 
 
 Academic & work background
 ------
-I started out in Urban Geography and transitioned into Transport Data Science after researching cycling in the Netherlands, where I obtained my MSc. During my time as a marketing analyst for several years I nurtured my love for data, while getting a handle on business strategy and working with clients.  
+I started out in Urban Geography and transitioned into Intelligent Transport Systems after researching cycling in the Netherlands, where I obtained my MSc. During my time as a marketing analyst for several years I nurtured my love for data, while getting a handle on business strategy and working with clients.  
 
 
 
