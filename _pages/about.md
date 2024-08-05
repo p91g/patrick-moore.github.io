@@ -28,7 +28,7 @@ I am nearing completion of a PhD in Intelligent Transport Systems, focusing on o
 3. Machine learning to predict future bikeshare use patterns based on these city clusters.
 4. Development of an optimisation approach to determine optimal station locations, aiming to control system dynamics and improve overall efficiency.
 
-Through my PhD, I have nurtured a fascination with understanding the cities we live in, seeking out new ways to capture and analyse geo-spatial data. From performing graph analysis on road networks to analysing the spatial distribution of buildings or segmenting city space into distinct clusters, I find excitement in discovering the underlying structures of the urban environment and how people interact with it.
+Through my PhD, I have nurtured a fascination with understanding the cities we live in, seeking out new ways to capture and analyse geo-spatial data. From performing graph analysis on road networks, to analysing the spatial distribution of buildings, or segmenting city space into distinct clusters, I find excitement in discovering the underlying structures of the urban environment and how people interact with it.
 
 I particularly enjoy bringing data to life visually, whether that be a dashboard, an interactive map or exploring a plotting library. This passion for visualisation enhances my ability to communicate complex spatial patterns and relationships effectively.
 
