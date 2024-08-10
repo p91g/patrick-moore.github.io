@@ -22,6 +22,7 @@ I have created this site to host a summary of my PhD research, including the dif
 * [Here](https://p91g.github.io/patrick-moore.github.io/posts/2023/10/blog-post-data-science-bikeshare/) I explain how data science can be used to solve research problems in bikeshare
 * I detail how to scrape bikeshare station availability data [here](https://p91g.github.io/patrick-moore.github.io/posts/2023-06-10-web-scraping-walkthrough-london/) and how to obtain restaurant building locations from the UK gov site [here](https://p91g.github.io/patrick-moore.github.io/posts/2024-02-06-fhrs_extract_notebook/)
 * Check out my Python app [here](https://app-built-env-trips.streamlit.app), including visualisation of outlier detection, training a model to predict bikeshare trips and optimising docking station locations using an Evolutionary algorithm.
+* Hourly bikeshare trip forecasting, using a Temporal Graph Convolutional neural network is detailed [here](https://p91g.github.io/patrick-moore.github.io/posts/2024-08-01-Predicting_hourly_bikeshare_trips_with_a_Temporal_Graph_Convolutional_Network/)
 
 Interests
 ------
