@@ -19,6 +19,7 @@ redirect_from:
 What is this site for?
 ------
 I have created this site to host a summary of my PhD research, including the different methods and tools that I have used. Hopefully others interested in the field find some of it useful!  
+* I have created a Python app [here]("https://app-built-env-trips.streamlit.app"), including visualisation of outlier detection, training a model to predict bikeshare trips and optimising docking station locations using an Evolutionary algorithm.
 
 Interests
 ------
