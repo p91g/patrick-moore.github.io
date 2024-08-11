@@ -179,7 +179,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   projects:
     output: false
@@ -207,16 +207,16 @@ defaults:
    #   author_profile: true
     #  share: true
      # comments: true
-  # _publications
-  #- scope:
-  #    path: ""
-  #    type: publications
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comments: true
-  # _projects
+  _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+   _projects
   - scope:
       path: ""
       type: projects
