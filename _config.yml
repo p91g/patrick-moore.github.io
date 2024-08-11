@@ -199,14 +199,14 @@ defaults:
       layout: single
       author_profile: true
   # _tutorials
-  #- scope:
-   #   path: ""
-   #   type: tutorials
-   # values:
-   #  layout: single
-   #   author_profile: true
-    #  share: true
-     # comments: true
+  - scope:
+      path: ""
+      type: tutorials
+    values:
+     layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -217,7 +217,7 @@ defaults:
       share: true
       comments: true
       
-   _projects
+  # _projects
   - scope:
       path: ""
       type: projects
