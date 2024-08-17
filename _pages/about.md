@@ -29,8 +29,8 @@ Interests
 I am nearing completion of a PhD in Intelligent Transport Systems, focusing on optimising bikeshare operations through analysis of the built environment. The end-to-end machine learning framework was:
 1. Automated bike data extraction via stations API,  storing to a SQL database
 2. Pre-processed large geo-spatial datasets to extract meaningful metrics
-3. Inference of statistical models to explain determinants of bikeshare trips
-4. Geo-spatial clustering of urban morphology 
+3. Geo-spatial clustering of urban morphology
+4. Inference of statistical models to explain determinants of bikeshare trips
 5. Predicted future ridership using machine learning (XGBoost) and a Random Effects model
 6. Discrete optimisation of station location, using a combinatorial algorithm
 
