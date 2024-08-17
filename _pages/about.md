@@ -38,7 +38,7 @@ Through my PhD, I have nurtured a fascination with understanding the cities we l
 
 I particularly enjoy bringing data to life visually, whether that be a dashboard, an interactive map or exploring a plotting library. This passion for visualisation enhances my ability to communicate complex spatial patterns and relationships effectively.
 
-While my focus is on transport systems, I've also had exposure to diverse projects, such as building a network intrusion classifier using deep learning. This breadth of experience has enhanced my adaptability and problem-solving skills.
+While my focus is on transport systems, I've also had exposure to diverse projects, such as building a network intrusion classifier using deep learning. This breadth of experience has enhanced my adaptability to solve problems across a range of domains.
 
 I primarily work with Python for geo-spatial data wrangling and machine learning, complemented by R for statistical modelling. This combination allows me to leverage the strengths of both languages to tackle different projects.
 
