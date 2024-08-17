@@ -29,10 +29,10 @@ Interests
 I am nearing completion of a PhD in Intelligent Transport Systems, focusing on optimising bikeshare operations through analysis of the built environment. The end-to-end machine learning framework was:
 1. Automated bike data extraction via stations API,  storing to a SQL database
 2. Pre-processed large geo-spatial datasets to extract meaningful metrics
-3. Geo-spatial clustering of urban morphology
+3. Geo-spatial clustering of urban morphology across cities
 4. Inference of statistical models to explain determinants of bikeshare trips
 5. Predicted future ridership using machine learning (XGBoost) and a Random Effects model
-6. Discrete optimisation of station location, using a combinatorial algorithm
+6. Discrete optimisation of station locations, using a combinatorial algorithm
 
 Through my PhD, I have nurtured a fascination with understanding the cities we live in, seeking out new ways to capture and analyse geo-spatial data. From performing graph analysis on road networks, to analysing the spatial distribution of buildings, or segmenting city space into distinct clusters, I find excitement in discovering the underlying structures of the urban environment and how people interact with it.
 
