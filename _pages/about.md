@@ -26,11 +26,13 @@ I have created this site to host a summary of my PhD research, including the dif
 
 Interests
 ------
-I am nearing completion of a PhD in Intelligent Transport Systems, focusing on optimising bikeshare operations through analysis of the built environment. My research employed an integrated analytical framework comprising:
-1. Statistical modelling to infer relationships between the built environment and bikeshare use.
-2. Cluster analysis to categorise UK cities based on urban characteristics.
-3. Machine learning to predict future bikeshare use patterns based on these city clusters.
-4. Development of an optimisation approach to determine optimal station locations, aiming to control system dynamics and improve overall efficiency.
+I am nearing completion of a PhD in Intelligent Transport Systems, focusing on optimising bikeshare operations through analysis of the built environment. The end-to-end machine learning framework was:
+1. Automated bike data extraction via stations API,  storing to a SQL database
+2. Pre-processed large geo-spatial datasets to extract meaningful metrics
+3. Inference of statistical models to explain determinants of bikeshare trips
+4. Geo-spatial clustering of urban morphology 
+5. Predicted future ridership using machine learning (XGBoost) and a Random Effects model
+6. Discrete optimisation of station location, using a combinatorial algorithm
 
 Through my PhD, I have nurtured a fascination with understanding the cities we live in, seeking out new ways to capture and analyse geo-spatial data. From performing graph analysis on road networks, to analysing the spatial distribution of buildings, or segmenting city space into distinct clusters, I find excitement in discovering the underlying structures of the urban environment and how people interact with it.
 
