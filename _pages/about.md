@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  <br/><img src='https://p91g.github.io/patrick-moore.github.io/images/data_bss_city_groups.png'>{: .align-right width="300px"}
-🧑‍💻 I am a PhD candidate of Intelligent Transport Systems
+🧑‍💻 I am a PhD candidate of Intelligent Transport Systems, applying geo-spatial data science to optimise transport systems using smart mobility data.
 
 🤖 🗺️ I am passionate about visualising, exploring and modelling data, particularly geo-spatial data 
 
