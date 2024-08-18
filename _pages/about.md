@@ -26,7 +26,7 @@ I have created this site to host a summary of my PhD research, including the dif
 
 Interests
 ------
-I am nearing completion of a PhD in Intelligent Transport Systems, focussing on optimising bikeshare station locations through analysis of the built environment. The end-to-end machine learning framework was:
+I am nearing completion of a PhD in Intelligent Transport Systems, focussing on optimising bikeshare station locations through analysis of the built environment. The end-to-end machine learning framework comprises of:
 1. Automated bike data extraction via stations API,  storing to a SQL database
 2. Pre-processed built environment data to extract meaningful metrics
 3. Geo-spatial clustering of urban morphology across cities
