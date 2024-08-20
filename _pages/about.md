@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  <br/><img src='https://p91g.github.io/patrick-moore.github.io/images/data_bss_city_groups.png'>{: .align-right width="300px"}
-🧑‍💻 I am a PhD candidate of Intelligent Transport Systems, applying geo-spatial data science to optimise transport systems using smart mobility data.
+🧑‍💻 I am a PhD candidate of Geospatial Data Science, focussing on optimising transport systems using smart mobility data.
 
 🤖 🗺️ I am passionate about visualising, exploring and modelling data, particularly geo-spatial data 
 
@@ -26,7 +26,7 @@ I have created this site to host a summary of my PhD research, including the dif
 
 Interests
 ------
-I am nearing completion of a PhD in Intelligent Transport Systems, focussing on optimising bikeshare station locations through analysis of the built environment. The end-to-end machine learning framework comprises of:
+I am nearing completion of a PhD in Geospatial Data Science, focussing on optimising bikeshare station locations through analysis of the built environment. The end-to-end machine learning framework comprises of:
 1. Automated bike data extraction via stations API,  storing to a SQL database
 2. Pre-processed built environment data to extract meaningful metrics
 3. Geo-spatial clustering of urban morphology across cities
@@ -48,7 +48,7 @@ Originally from Cambridge, keen rock climber, whippet owner, enjoyer of cooking 
 
 Academic & work background
 ------
-I started out in Urban Geography and transitioned into Intelligent Transport Systems after researching cycling in the Netherlands, where I obtained my MSc. During my time as a marketing analyst for several years I nurtured my love for data, while getting a handle on business strategy and working with clients.  
+I started out in Urban Geography and transitioned into Geospatial Data Science after researching cycling in the Netherlands, where I obtained my MSc. During my time as a marketing analyst for several years I nurtured my love for data, while getting a handle on business strategy and working with clients.  
 
 
 
