@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 {% comment %}
-<img src='https://p91g.github.io/patrick-moore.github.io/images/data_bss_city_groups.png'>{: .align-right width="300px"}
+#<img src='https://p91g.github.io/patrick-moore.github.io/images/data_bss_city_groups.png'>{: .align-right width="300px"}
 {% endcomment %}
 🧑‍💻 I am a PhD candidate of Geospatial Data Science, focussing on optimising transport systems using smart mobility data.
 
