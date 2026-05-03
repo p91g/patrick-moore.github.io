@@ -146,6 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - _posts/2023-10-05-web-scraping-walkthrough-london.html
 keep_files:
   - .git
   - .svn
@@ -303,5 +304,3 @@ compress_html:
   ignore:
     envs: development
 # exclude
-exclude:
-  -_posts/2023-10-05-web-scraping-walkthrough-london.html
