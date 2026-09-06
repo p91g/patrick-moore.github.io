@@ -32,7 +32,7 @@ I've created this site to host some examples of the methods used in my PhD resea
 
 Interests
 ------
-I am fascinated in understanding the cities we live in, seeking out new ways to obtain and analyse geo-spatial data. From measuring graph structures of road networks, quantifying building characteristics, or discovering new urban zones across via unsupervised learning techniques. By integrating multiple sources of data together, underlying  urban structures can be captured in new (sometimes exciting!) ways.
+I am fascinated in understanding the cities we live in, seeking out novel ways to obtain and analyse geo-spatial data. From measuring graph structures of road networks, quantifying building characteristics, or discovering new urban zones via unsupervised learning techniques. By integrating multiple sources of data together, underlying  urban structures can be captured in new (sometimes exciting!) ways.
 
 I primarily work with Python for geo-spatial data wrangling and machine learning, complemented by R for statistical modelling. 
 
