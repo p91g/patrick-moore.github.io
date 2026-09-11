@@ -12,14 +12,6 @@ redirect_from:
 {% endcomment %}
 I hold a PhD in Intelligent Transport Systems and am fascinated in understanding urban space from a data perspective.
 
-My PhD examined novel methods for predicting UK bikeshare demand and optimising station network structure. 
-
-It was the first to study multiple UK cities simultaneously, developing a hierarchical model that estimated regional and local effects of the urban environment. 
-
-To address the complexity of optimising station network structure, I adapted an Evolutionary Algorithm (EA), integrating urban characteristics into its objective function. 
-
-The approach ensured that station network design adapted to urban context, maximised predicted ridership and minimised overall journey impedance.
-
 What is this site for?
 ------
 I've created this site to host some examples of the methods used in my PhD research. Hopefully others interested in the field find some of it useful!  
@@ -27,6 +19,12 @@ I've created this site to host some examples of the methods used in my PhD resea
 * I detail how to scrape bikeshare station availability data [here](https://p91g.github.io/patrick-moore.github.io/posts/2023-06-10-web-scraping-walkthrough-london/) and how to obtain restaurant building locations from the UK gov site [here](https://p91g.github.io/patrick-moore.github.io/posts/2024-02-06-fhrs_extract_notebook/)
 * Check out my Python app [here](https://app-built-env-trips.streamlit.app), including visualisation of outlier detection, training a model to predict bikeshare trips and optimising docking station locations using an Evolutionary algorithm.
 * Hourly bikeshare trip forecasting, using a Temporal Graph Convolutional neural network is detailed [here](https://p91g.github.io/patrick-moore.github.io/posts/2024-08-01-Predicting_hourly_bikeshare_trips_with_a_Temporal_Graph_Convolutional_Network/)
+
+My PhD 
+------
+My PhD examined novel methods for predicting UK bikeshare demand and optimising station network structure. 
+
+It was the first to study multiple UK cities simultaneously, developing a hierarchical model that estimated regional and local effects of the urban environment. To address the complexity of optimising station network structure, I adapted an Evolutionary Algorithm (EA), integrating urban characteristics into its objective function. The approach ensured that station network design adapted to urban context, maximised predicted ridership and minimised overall journey impedance.
  
 Personal
 ------
