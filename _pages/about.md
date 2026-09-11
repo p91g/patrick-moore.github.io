@@ -24,7 +24,9 @@ My PhD
 ------
 My PhD examined novel methods for predicting UK bikeshare demand and optimising station network structure. 
 
-It was the first to study multiple UK cities simultaneously, developing a hierarchical model that estimated regional and local effects of the urban environment. To address the complexity of optimising station network structure, I adapted an Evolutionary Algorithm (EA), integrating urban characteristics into its objective function. The approach ensured that station network design adapted to urban context, maximised predicted ridership and minimised overall journey impedance.
+It was the first to study multiple UK cities simultaneously, developing a hierarchical model that estimated regional and local effects of the urban environment. To address the complexity of optimising station network structure, I adapted an Evolutionary Algorithm (EA), integrating urban characteristics into its objective function. 
+
+The approach ensured that station network design adapted to urban context, maximised predicted ridership and minimised overall journey impedance.
  
 Personal
 ------
