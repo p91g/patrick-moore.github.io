@@ -10,7 +10,7 @@ redirect_from:
 {% comment %}
 #<img src='https://p91g.github.io/patrick-moore.github.io/images/data_bss_city_groups.png'>{: .align-right width="300px"}
 {% endcomment %}
-I hold a PhD in Intelligent Transport Systems and am fascinated in understanding urban space from a data perspective.
+I am a Geospatial Data Scientist and hold a PhD in Intelligent Transport Systems. I am fascinated by the urban environments and systems, and enjoy using data and modelling to capture and understand their complexity.   
 
 What is this site for?
 ------
@@ -24,7 +24,7 @@ My PhD
 ------
 My PhD examined novel methods for predicting UK bikeshare demand and optimising station network structure. 
 
-It was the first to study multiple UK cities simultaneously, developing a hierarchical model that estimated regional and local effects of the urban environment. To address the complexity of optimising station network structure, I adapted an Evolutionary Algorithm (EA), integrating urban characteristics into its objective function. 
+It was the first to study multiple UK cities simultaneously, developing a hierarchical model that estimated regional and local effects of the urban environment. Addressing the complexity of optimising station network structure, I adapted an Evolutionary Algorithm (EA), integrating urban characteristics into its objective function. 
 
 The approach ensured that station network design adapted to urban context, maximised predicted ridership and minimised overall journey impedance.
  
