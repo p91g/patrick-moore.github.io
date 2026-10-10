@@ -10,7 +10,7 @@ redirect_from:
 {% comment %}
 #<img src='https://p91g.github.io/patrick-moore.github.io/images/data_bss_city_groups.png'>{: .align-right width="300px"}
 {% endcomment %}
-I am fascinated by the complexity of urban environments and transportation systems, which motivated me to obtain a PhD in Intelligent Transport Systems and pursue a career in Geospatial Data Science.    
+I'm a Geospatial Data Scientist currently working in insurance analytics. My academic background is in Geography which later became focussed on transportation system analytics, motivating to pursue my PhD in Intelligent Transport Systems. Generally, I am fascinated by the complexity of urban environments and discovering new ways they can be visualised, modelled and understood from a data perspective.        
 
 What is this site for?
 ------
