@@ -14,7 +14,7 @@ I'm a Geospatial Data Scientist currently working in insurance analytics. My aca
 
 What is this site for?
 ------
-I've created this site to host some examples of the methods used in my PhD research. Hopefully others interested in the field find some of it useful!  
+I've created this site to host some stuff from  my PhD as well recent side quests exploring things I'm curious about. Hopefully others interested in the field find some of it useful!  
 * [Here](https://p91g.github.io/patrick-moore.github.io/posts/2023/10/blog-post-data-science-bikeshare/) I explain how data science can be used to solve research problems in bikeshare
 * I detail how to scrape bikeshare station availability data [here](https://p91g.github.io/patrick-moore.github.io/posts/2023-06-10-web-scraping-walkthrough-london/) and how to obtain restaurant building locations from the UK gov site [here](https://p91g.github.io/patrick-moore.github.io/posts/2024-02-06-fhrs_extract_notebook/)
 * Check out my Python app [here](https://app-built-env-trips.streamlit.app), including visualisation of outlier detection, training a model to predict bikeshare trips and optimising docking station locations using an Evolutionary algorithm.
