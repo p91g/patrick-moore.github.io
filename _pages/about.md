@@ -10,7 +10,7 @@ redirect_from:
 {% comment %}
 #<img src='https://p91g.github.io/patrick-moore.github.io/images/data_bss_city_groups.png'>{: .align-right width="300px"}
 {% endcomment %}
-I'm a Geospatial Data Scientist currently working in insurance analytics. My academic background is in Geography which later became focussed on transportation modelling, motivating to pursue my PhD in Intelligent Transport Systems. Generally, I am fascinated by the complexity of urban environments and discovering new ways they can be visualised, modelled and understood from a data perspective.        
+I'm a Geospatial Data Scientist currently working in insurance analytics. My academic background is in Geography which later became focussed on transportation modelling, motivating me to pursue my PhD in Intelligent Transport Systems. Generally, I am fascinated by the complexity of urban environments and discovering new ways they can be visualised, modelled and understood from a data perspective.        
 
 What is this site for?
 ------
